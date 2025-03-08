@@ -6,8 +6,6 @@
 using namespace std;
 using namespace std::chrono;
 
-#define MAX_THREADS 8 // Maximum number of threads to evaluate
-
 typedef vector<vector<int>> Matrix;
 
 int current_size; // Global variable for matrix size
